@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Britojuliano99
 - 👀 I’m interested in Juliano Brito  
 - 🌱 I’m currently learning data science and ME
-- 💞️ I’m looking to collaborate on data and simulacion codes
+- 💞️ I’m looking to collaborate on data and simulacion projects.
 - 📫 How to reach me britojuliano99@gmail.com
 
 
